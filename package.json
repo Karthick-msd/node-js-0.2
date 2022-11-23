@@ -20,7 +20,7 @@
     "mongoose": "^5.9.16",
     "path": "^0.12.7",
     "plaintextparser": "^1.0.3",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
